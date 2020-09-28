@@ -16,7 +16,14 @@ Build a JS Calculator
 
 Starter code is available in [`calculator.js`](calculator.js). You are required to turn in your submission by making a pull request on the original repository.
 
-Unless otherwise specified on the calendar or by an instructor, homework is due the next morning by 10:00am eastern
+Unless otherwise specified on the calendar or by an instructor, homework is due the next morning by 10:00am ET. 
+
+### Preview Tomorrow's Content 
+
+When you are finished with this assignment, take a look at the following resources so that you're ready for tomorrow's lecture on JS Objects and Context. 
+
+- [An Encounter with JS Objects](https://fireship.io/courses/javascript/beginner-js-objects/)
+- [JS Objects Tutorial](https://dev.to/jamesqquick/javascript-objects-tutorial-3kg4)
 
 ## Requirements
 
