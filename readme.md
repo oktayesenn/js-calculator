@@ -18,6 +18,12 @@ Starter code is available in [`calculator.js`](calculator.js). You are required 
 
 Unless otherwise specified on the calendar or by an instructor, homework is due the next morning by 10:00am ET. 
 
+### Preview Tomorrow's Content
+
+Check out the videos below to prepare for tomorrow's lecture on array methods: 
+
+- [Array Iteration Methods](https://www.youtube.com/watch?v=Urwzk6ILvPQ)
+- [Must-Know JS Array Methods](https://www.youtube.com/watch?v=R8rmfD9Y5-c&vl=en-US)
 
 ## Requirements
 
@@ -59,7 +65,9 @@ calculator.multiply(2)
 Give your calculator a "master" method that can parse through a string of operations (e.g., `(2 - 1) * (5 ^ 2)`)
 * Your calculator should still have memory.
 
+## Bonus 3 
 
+Too easy? Try your hand at building out geometric objects and methods in this bonus [assignment](https://git.generalassemb.ly/sei-921/js-geometry).
 
 ## [License](LICENSE)
 
